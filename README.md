@@ -1,13 +1,13 @@
-<h1 align="center">Assalamualaikum Dadan Abdilah</h1>
-<h3 align="center">Saya Seorang Web Developer dari Kuningan, Jawa Barat - Indonesia.</h3>
+<h1 align="center">Assalamualaikum, I'm Dadan Abdilah</h1>
+<h3 align="center">I am a Junior Web Developer from Kuningan, West Java - Indonesia.</h3>
 
-- 🌱 I’m currently learning **Codeigniter, etc.**
+- 🌱 I’m currently learning **Framework, ,  etc.**
 
 - 💬 Ask me about **PHP, Java**
 
 - 📫 How to reach me **abdilahdadan5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gOqB0Og3H6clBkiytCwhEEkPoUDIS2CB/view?usp=sharing](https://drive.google.com/file/d/1gOqB0Og3H6clBkiytCwhEEkPoUDIS2CB/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1gOqB0Og3H6clBkiytCwhEEkPoUDIS2CB/view?usp=sharing](https://drive.google.com/file/d/1gOqB0Og3H6clBkiytCwhEEkPoUDIS2CB/view?usp=sharing) -->
 
 - ⚡ Fun fact **Tidur dapat mengobati rasa ngantuk.**
 
